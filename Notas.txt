@@ -1,0 +1,28 @@
+2024.11.13:  envié mensaje a Alejandro preguntando cuál era la explicación de esos picos de mediados del 2022 y de mediados del 2024.
+
+DATA DISPONIBLE:
+* el presupuesto del 2023 y 2024
+* préstamos de MT entre clientes y SUMIQUIM (desde y hacia)
+* Ventas de la MT 
+    * Fecha (del pedido?)
+    * Fecha entrega (o sea cuando fue entregado)
+    * Cant. pedida
+    * Cant. pendiente  (y donde quedan registradas las entregas parciales?  en este archivo parece que Cant. pendiente es lo pendiente actualizado?)
+    * otras cantidades tales como comprometida (qué es?), en remisión (qué es?), de factura (o sea lo que realmente llegó al cliente?)
+
+DATA SOLICITADA NO ENTREGADA
+* **PRECIO DE VENTA   !!!**
+* descripción de los clientes (industria, etc..)
+* pagos realizados por los clientes y moras
+* lotes desde donde vinieron los productos
+* como hay información de compras desde el 2017, solo llegó información de presupuestos del 2023 y 2024
+* forecast de clientes de KERATINA?
+* proveedores
+* certificados de análisis (no hay por lote?)
+* soporte técnico solicitado por los clientes de la kera tina
+
+OTROS DATOS A INCLUIR
+* precio de dólar
+* IPC
+* desempleo
+* qué factores afectan la venta de los productos que usan la KERA TINA?
